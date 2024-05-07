@@ -51,5 +51,14 @@ To use this project effectively:
 
 - Datasets provided are from snowflake data samples: SNOWFLAKE_SAMPLE_DATA.TPCH_SF1 limited to 10000 rows
 
+## Additional Resources
+
+- [Snowflake Documentation](https://docs.snowflake.com): Extensive resources on setting up and managing CDC processes in Snowflake.
+- [Snowflake Community Support](https://community.snowflake.com): Engage with other Snowflake users and experts to enhance your CDC implementation.
+
+## Contributors
+
+- **Luis Franco**: Project Lead and main contributor.
+
 
 
